@@ -4,14 +4,14 @@
 
 Based out of Vancouver, BC, Canada
 
-*Languages:*
+**Languages:**
 - Python
 - Java
 - Matlab
 
-* Currently learning bash! *
+\* Currently learning bash! \*
 
 ### Contact:
 email me at \*myusername\* @gmail.com
 
-![open-source clipart](https://openclipart.org/detail/218916/thumbs-up-man)
+![open-source clipart](https://openclipart.org/image/800px/218916)
