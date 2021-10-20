@@ -1,27 +1,17 @@
-# This is a large heading
+# Nicholas Konyer
 
-## This is a smaller heading
+## *Hobbyist Coder*
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, for poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Based out of Vancouver, BC, Canada
 
-- This is
-- an unordered
-- list
+*Languages:*
+- Python
+- Java
+- Matlab
 
-1. This is
-2. an ordered
-3. list
+* Currently learning bash! *
 
-Here is `some code` in the middle of a sentence.
+### Contact:
+email me at \*myusername\* @gmail.com
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+![open-source clipart](https://openclipart.org/detail/218916/thumbs-up-man)
